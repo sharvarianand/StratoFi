@@ -1,7 +1,0 @@
-
-This is a binary file, so I'll describe what needs to be done:
-
-1. Create a PNG image named "chart-light.png" in the public directory
-2. This should be a financial chart visualization that looks good in light mode
-3. Use colors that contrast well with light backgrounds (darker blues, greens, etc.)
-4. The image should have similar dimensions to the existing dark mode chart

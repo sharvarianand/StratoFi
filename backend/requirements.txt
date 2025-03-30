@@ -1,0 +1,54 @@
+# Django Dependencies
+Django==5.0.2
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-environ==0.11.2
+django-oauth-toolkit==2.3.0
+django-redis==5.4.0
+
+# FastAPI Dependencies
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Database
+psycopg2-binary==2.9.9
+redis==5.0.1
+SQLAlchemy==2.0.27
+
+# Celery & WebSocket
+celery==5.3.6
+channels==4.0.0
+channels-redis==4.1.0
+
+# AI & ML
+langchain==0.1.9
+groq==0.4.2
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1
+
+# Financial Data
+yfinance==0.2.36
+alpha_vantage==2.3.1
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
+tenacity==8.2.3
+aiohttp==3.9.3
+httpx==0.26.0
+
+# Testing
+pytest==8.0.2
+pytest-asyncio==0.23.5
+pytest-django==4.8.0
+
+# Development
+black==24.2.0
+isort==5.13.2
+flake8==7.0.0
+mypy==1.8.0 
